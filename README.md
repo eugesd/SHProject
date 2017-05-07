@@ -47,4 +47,4 @@ while True:
 ```
 
 ## Links
-* [KaleTech](http://www.kale.tech "KaleTech")
+* [KaleTech](http://kale.tech "KaleTech")
