@@ -1,7 +1,6 @@
 # Kale.tech
 Silicon Hacks 2017 project.
 
-![alt logo](https://github.com/eugesd/SHProject/blob/master/kaletech_logo.png?raw=true)
 ![alt logo](https://github.com/eugesd/SHProject/blob/master/kaletech_logo.png)
 
 
