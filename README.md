@@ -28,7 +28,7 @@ Monitor your plants' soil, moisture, and temperature with our smart IoT device. 
 
 ## Images
 ![alt hardware](https://github.com/eugesd/SHProject/blob/master/content/images/hardware.jpg)
-![alt output](../blob/master/content/images/output.jpg)
+![alt output](../master/content/images/output.jpg)
 
 ## Links
 * [KaleTech](http://www.kale.tech "KaleTech")
