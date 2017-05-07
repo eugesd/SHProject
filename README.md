@@ -27,8 +27,8 @@ Monitor your plants' soil, moisture, and temperature with our smart IoT device. 
 * Yl-69 sensor
 
 ## Images
-![alt hardware](https://github.com/eugesd/SHProject/blob/master/content/images/hardware.jpeg)
-![alt output](https://github.com/eugesd/SHProject/blob/master/content/images/output.jpg)
+![alt hardware](https://github.com/eugesd/SHProject/blob/master/content/images/hardware.jpg)
+![alt output](https://github.com/eugesd/SHProject/blob/master/content/images/output.jpeg)
 
 ## Links
 * [KaleTech](http://www.kale.tech "KaleTech")
