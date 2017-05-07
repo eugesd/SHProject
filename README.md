@@ -17,17 +17,17 @@ Kale.tech is ultimate one-stop solution for maximazing home-grown vegetables, fr
 Monitor your plants' soil, moisture, and temperature with our smart IoT device. Track the progress of growth through the intuitive online web application powered by IBM's Watson and Bluemix platform-as-a-service tools.
 
 ## API Reference & Tools
-⋅⋅*IBM Watson
-⋅⋅*IBM Bluemix
-⋅⋅*Raspbian OS
-⋅⋅*Node-Red (Node.js)
-⋅⋅*get.tech (domain purchase)
+*IBM Watson
+*IBM Bluemix
+*Raspbian OS
+*Node-Red (Node.js)
+*get.tech (domain purchase)
 
 ### Hardware
 ⋅*Raspberry Pi 3 Model B v1.2
 ⋅*DHT-11 Sensor
 
 ## Links
-[KaleTec](http://www.kaletech.com "KaleTech")
+[KaleTech](http://www.kaletech.com "KaleTech")
 
 [Bluemix App](https://home-iot-simulator-20170507034737862.mybluemix.net/ "KaleTech App")
