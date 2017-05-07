@@ -26,7 +26,10 @@ Monitor your plants' soil, moisture, and temperature with our smart IoT device. 
 * DHT-11 Sensor
 * Yl-69 sensor
 
-## Links
-[KaleTech](http://www.kaletech.com "KaleTech")
+## Images
+![alt hardware](https://github.com/eugesd/SHProject/blob/master/content/images/hardware.jpeg)
+![alt output](https://github.com/eugesd/SHProject/blob/master/content/images/output.jpg)
 
-[Bluemix App](https://home-iot-simulator-20170507034737862.mybluemix.net/ "KaleTech App")
+## Links
+* [KaleTech](http://www.kale.tech "KaleTech")
+* [Bluemix App](https://home-iot-simulator-20170507034737862.mybluemix.net/ "KaleTech App")
