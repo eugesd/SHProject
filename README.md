@@ -24,11 +24,11 @@ Monitor your plants' soil, moisture, and temperature with our smart IoT device. 
 ### Hardware
 * Raspberry Pi 3 Model B v1.2
 * DHT-11 Sensor
-* Yl-69 sensor
+* YL-69 sensor
 
 ## Images
 ![alt hardware](https://github.com/eugesd/SHProject/blob/master/content/images/hardware.jpg)
-![alt output](../blob/master/content/images/output.jpeg)
+![alt output](../blob/master/content/images/output.jpg)
 
 ## Links
 * [KaleTech](http://www.kale.tech "KaleTech")
