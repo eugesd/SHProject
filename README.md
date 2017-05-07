@@ -5,10 +5,8 @@ Silicon Hacks 2017 project.
 
 
 ## Team
-
-Eugenio Rivera
-
-Paul Delgado
+* Eugenio Rivera
+* Paul Delgado
 
 ## Synposis
 
