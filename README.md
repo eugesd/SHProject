@@ -21,7 +21,7 @@ IBM Watson
 
 IBM Bluemix
 
-Raspberry Pi with Raspbian OS
+Raspbian OS
 
 Node-Red (Node.js) with Bluemix
 
