@@ -1,6 +1,8 @@
 # Kale.tech
 Silicon Hacks 2017 project.
 
+May 6 - 7, 2017
+
 ![alt logo](https://github.com/eugesd/SHProject/blob/master/kaletech_logo.png)
 
 
