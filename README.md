@@ -26,3 +26,9 @@ Raspberry Pi with Raspbian OS
 Node-Red (Node.js) with Bluemix
 
 get.tech (domain purchase)
+
+### Hardware
+
+Raspberry Pi 3 Model B v1.2
+
+DHT-11 Sensor
